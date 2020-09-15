@@ -18,3 +18,14 @@ Hardworking specialist in computer science. The desire to use coding skills for 
 * C++
 * Assemble
 * GIT
+
+## Experience
+**Main data processing centre under the state association “BELARUSIAN RAILWAY”**
+ * Junior Database Administrator
+
+## Education
+**Belarusian State University of Informatics and radioelectronics**
+ * Faculty of Computer Technology
+
+## English 
+B1(intermediate) 
